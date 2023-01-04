@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhayanesh&theme=blue-green)
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,js,mysql,git])](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,js])](https://skills.thijs.gg)
 
