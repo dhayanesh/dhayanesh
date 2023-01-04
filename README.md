@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Introducing myself as Dhayaneshwar, I am a Master’s student at University at Buffalo (SUNY)- Buffalo, NY pursuing Computer Science and Engineering. After completing my undergrad, I worked as a Software Development Engineer (SDE) at Newgen Software Technologies in Full-Stack application development in India. 
 
 <!--
 **dhayanesh/dhayanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
