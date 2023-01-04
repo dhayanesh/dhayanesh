@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 ### Core stack ⚡
 [![My Skills](https://skills.thijs.gg/icons?i=java,python,js,git])](https://skills.thijs.gg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dhayanesh)](https://git.io/streak-stats)
-
 
 ### Let's connect 😄
 <a href="https://www.linkedin.com/in/dhayaneshwar" rel="nofollow">
