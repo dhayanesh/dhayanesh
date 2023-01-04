@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhayanesh&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhayanesh&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com/?user=dhayanesh)](https://git.io/streak-stats)
 ### Core stack ⚡
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,js,git])](https://skills.thijs.gg) [![GitHub Streak](https://streak-stats.demolab.com/?user=dhayanesh)](https://git.io/streak-stats)
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,js,git])](https://skills.thijs.gg) 
 
 
 ### Let's connect 📫
