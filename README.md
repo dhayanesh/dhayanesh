@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhayanesh&theme=blue-green)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=dhayanesh&show_icons=true)
+
