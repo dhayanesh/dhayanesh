@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Stats 🌱
-[![Top Langs](https://github-readme-stats-mu-fawn.vercel.app/api/top-langs/?username=dhayanesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mu-fawn.vercel.app/api/top-langs/?username=dhayanesh&layout=compact)](https://github.com/dhayanesh/github-readme-stats)
 
 
 ### Core stack ⚡
