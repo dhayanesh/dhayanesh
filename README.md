@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ### Skills ⚡
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,js,mysql,react,nodejs,mongodb,html,css,jquery,androidstudio,kubernetes,git])](https://skills.thijs.gg) 
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,js,mysql,react,nodejs,mongodb,html,css,jquery,androidstudio,kubernetes,aws,git])](https://skills.thijs.gg) 
 
 
 ### Let's connect 📫
