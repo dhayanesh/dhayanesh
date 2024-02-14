@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 
 ### Let's connect 📫
-<a href="https://www.linkedin.com/in/dhayaneshwar" rel="nofollow"><p>LinkedIn</p></a>
+<a href="https://www.linkedin.com/in/dhayaneshwar"> <p>LinkedIn</p> </a>
 
-<a href="mailto:dhaya2698@gmail.com">
-		<p>Email</p>
-	</a>
+<a href="mailto:dhaya2698@gmail.com"> <p>Email</p> </a>
