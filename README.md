@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 ### Stats 🌱
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhayanesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### Skills ⚡
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,js,mysql,react,nodejs,mongodb,spring,androidstudio,tensorflow,pytorch,kubernetes,aws,git])](https://skills.thijs.gg) 
-
-
 ### Let's connect 📫
 [LinkedIn](https://www.linkedin.com/in/dhayaneshwar)
 
