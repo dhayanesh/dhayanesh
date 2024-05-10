@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Dhayaneshwar, currently doing my Master's in CS at University at Buffalo (SUNY) - New York. I previously worked as a Software Development Engineer (SDE) with experience in Full-Stack application development. I'm keenly interested in learning new technologies and exploring innovative challenges.
+I'm Dhayaneshwar, currently doing my Master's in CS at University at Buffalo (SUNY) - New York. I previously worked as a Software Engineer with experience in Full-Stack application development and Machine Learning. I'm keenly interested in learning new technologies and exploring innovative challenges.
 
 <!--
 **dhayanesh/dhayanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
