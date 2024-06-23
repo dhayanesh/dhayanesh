@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 [LinkedIn](https://www.linkedin.com/in/dhayaneshwar)
 
 [Email](mailto:dhaya2698@gmail.com)
-[![](https://skillicons.dev/icons?i=linkedin,gmail)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhayaneshwar)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:dhaya2698@gmail.com)
 
 
 ### My tech stack ⚡
