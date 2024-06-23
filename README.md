@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Stats 🌱
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhayanesh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhayanesh&hide_progress=true)
 
 ### Let's connect 📫
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhayaneshwar)
