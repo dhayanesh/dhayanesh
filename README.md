@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:dhaya2698@gmail.com)
 
 ### My tech stack ⚡
-![Skillsz](https://github.com/dhayanesh/dhaya_portfolio/blob/master/Skillsz.png)
+![Skillsz](https://github.com/dhayanesh/dhaya-portfolio/blob/master/samples/Skillsz.png)
 
+### My education and experience 🔭
+![Skillsz](https://github.com/dhayanesh/dhaya-portfolio/blob/master/samples/experience.png)
