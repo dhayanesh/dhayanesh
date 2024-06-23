@@ -20,12 +20,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dhayanesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's connect 📫
-[LinkedIn](https://www.linkedin.com/in/dhayaneshwar)
-
-[Email](mailto:dhaya2698@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhayaneshwar)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:dhaya2698@gmail.com)
-
 
 ### My tech stack ⚡
 ![Screenshot 2024-06-22 210333](https://github.com/dhayanesh/Core-Design-Patterns/assets/63561465/90613463-4282-4d43-983c-00f49f134f93)
