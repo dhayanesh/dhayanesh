@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:dhaya2698@gmail.com)
 
 ### My tech stack ⚡
-![Skillsz](https://github.com/dhayanesh/DSA-Practice/assets/63561465/dae7d44d-6aa4-4aa7-a1bc-f40d1bf2f874)
+![Skillsz]([https://github.com/dhayanesh/DSA-Practice/assets/63561465/dae7d44d-6aa4-4aa7-a1bc-f40d1bf2f874](https://github.com/dhayanesh/dhaya_portfolio/blob/master/Skillsz.png))
 
