@@ -28,5 +28,3 @@ Here are some ideas to get you started:
 ### My tech stack ⚡
 ![Skillsz](https://github.com/dhayanesh/dhaya-portfolio/blob/master/samples/Skillsz.png)
 
-### My education and experience 🔭
-![Skillsz](https://github.com/dhayanesh/dhaya-portfolio/blob/master/samples/experience.png)
