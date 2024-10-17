@@ -1,5 +1,5 @@
 ### Hi there, I'm Dhayaneshwar 👋 
-With Master’s in Computer Science from the University at Buffalo (SUNY) - New York, I bring nearly three years of experience as a Software Engineer and Researcher. My background includes extensive work in Full-Stack development and Machine Learning. I am keenly interested in learning new technologies and exploring innovative challenges. 
+With Master’s in Computer Science from the University at Buffalo (SUNY) - New York, I bring nearly three years of experience as a Software Engineer and Researcher. My background includes extensive work in Machine Learning and Full-Stack development. I am keenly interested in learning new technologies and exploring innovative challenges. 
 
 
 <!--
