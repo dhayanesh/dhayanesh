@@ -1,4 +1,4 @@
-### Hi there, I'm Dhayaneshwar 👋 
+### Hi there, I'm Dhaya 👋 
 With Master’s in Computer Science from the University at Buffalo (SUNY) - New York, I bring nearly four years of experience as a ML Engineer and Researcher. My background includes extensive work in Large-scale Machine Learning systems, MLOps, Distributed Systems, Algorithmic and GPU Optimizations. I am keenly interested in learning new technologies and exploring innovative challenges. 
 
 
