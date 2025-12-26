@@ -1,5 +1,5 @@
-### Hi there, I'm Dhaya 👋 
-With Master’s in Computer Science from the University at Buffalo (SUNY) - New York, I bring nearly four years of experience as a ML Engineer and Researcher. My background includes extensive work in Large-scale Machine Learning systems, MLOps, Distributed Systems, Algorithmic and GPU Optimizations. I am keenly interested in learning new technologies and exploring innovative challenges. 
+### Hey there, I'm Dhaya 👋 
+About me: ML Engineer and Researcher with nearly five years of experience building and optimizing large-scale AI/ML systems. Currently at JPMorgan Chase, working on recommendation systems, scalable batch and real-time inference, ML platforms, and agentic AI. Previously collaborated with Meta on distributed training, fault-tolerant systems, and CUDA/GPU optimizations. M.S. in Computer Science (AI) from the University at Buffalo (SUNY).
 
 
 <!--
