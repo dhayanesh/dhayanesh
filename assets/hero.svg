@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dhaya Balusamy — GitHub profile hero">
+  <defs>
+    <pattern id="dotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#1B1F24"/>
+    </pattern>
+
+    <radialGradient id="vignette" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 260) rotate(90) scale(320 900)">
+      <stop offset="0" stop-color="#0B0D10" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.65"/>
+    </radialGradient>
+
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="0 0 0 0 0.10
+                0 0 0 0 0.95
+                0 0 0 0 0.45
+                0 0 0 1 0" result="greenBlur"/>
+      <feMerge>
+        <feMergeNode in="greenBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0F141A"/>
+      <stop offset="1" stop-color="#0A0D11"/>
+    </linearGradient>
+
+    <style><![CDATA[
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+      .title { font-size: 56px; font-weight: 900; letter-spacing: 0.6px; fill: #F2F5F8; }
+      .sub { font-size: 20px; fill: #B7C0CC; }
+      .small { font-size: 14px; fill: #93A0B2; }
+      .btnText { font-size: 16px; font-weight: 800; }
+    ]]></style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="520" fill="#06080B"/>
+  <rect width="1600" height="520" fill="url(#dotGrid)" opacity="0.95"/>
+  <rect width="1600" height="520" fill="url(#vignette)"/>
+
+  <!-- Left block -->
+  <g transform="translate(90,88)">
+    <text class="mono title" x="0" y="0" dominant-baseline="hanging">DHAYA BALUSAMY</text>
+
+    <text class="mono sub" x="0" y="92">AI/ML engineer building recommender systems, LLM tooling,</text>
+    <text class="mono sub" x="0" y="122">scalable inference, and GPU-accelerated training.</text>
+
+    <!-- Pills -->
+    <g transform="translate(0,162)" opacity="0.95">
+      <rect x="0" y="0" rx="12" width="170" height="34" fill="#0D1117" stroke="#1E2530"/>
+      <text class="mono small" x="85" y="17" text-anchor="middle" dominant-baseline="middle">Recommenders</text>
+
+      <rect x="184" y="0" rx="12" width="170" height="34" fill="#0D1117" stroke="#1E2530"/>
+      <text class="mono small" x="269" y="17" text-anchor="middle" dominant-baseline="middle">LLM Systems</text>
+
+      <rect x="368" y="0" rx="12" width="170" height="34" fill="#0D1117" stroke="#1E2530"/>
+      <text class="mono small" x="453" y="17" text-anchor="middle" dominant-baseline="middle">CUDA / GPUs</text>
+    </g>
+
+    <!-- Buttons -->
+    <g transform="translate(0,220)">
+      <a href="https://www.linkedin.com/in/dhayaneshwar" target="_blank">
+        <rect x="0" y="0" rx="10" ry="10" width="190" height="46" fill="#0D1117" stroke="#2A313B"/>
+        <text class="mono btnText" x="95" y="23" text-anchor="middle" dominant-baseline="middle" fill="#E8EEF6">LINKEDIN</text>
+      </a>
+
+      <a href="mailto:dhaya2698@gmail.com" target="_blank">
+        <rect x="206" y="0" rx="10" ry="10" width="170" height="46" fill="#23F36A" filter="url(#glow)"/>
+        <text class="mono btnText" x="291" y="23" text-anchor="middle" dominant-baseline="middle" fill="#06220F">EMAIL</text>
+      </a>
+
+      <a href="https://github.com/dhayanesh/llm-quantization" target="_blank">
+        <rect x="392" y="0" rx="10" ry="10" width="260" height="46" fill="#0D1117" stroke="#23F36A" stroke-width="1.5"/>
+        <text class="mono btnText" x="522" y="23" text-anchor="middle" dominant-baseline="middle" fill="#E8EEF6">FEATURED: LLM QUANTIZATION</text>
+      </a>
+    </g>
+
+    <!-- Micro-copy -->
+    <text class="mono small" x="0" y="302">Focus: reliability, performance, clean interfaces, measurable wins.</text>
+
+    <!-- “Modules” list (RightNowAI-ish) -->
+    <g transform="translate(0,344)" opacity="0.9">
+      <text class="mono small" x="0" y="0" dominant-baseline="hanging">Realtime raw context</text>
+      <text class="mono small" x="250" y="0" dominant-baseline="hanging">→</text>
+      <text class="mono small" x="285" y="0" dominant-baseline="hanging">Semantic understanding</text>
+      <text class="mono small" x="560" y="0" dominant-baseline="hanging">→</text>
+      <text class="mono small" x="595" y="0" dominant-baseline="hanging">Curated output</text>
+    </g>
+  </g>
+
+  <!-- Right illustration panel -->
+  <g transform="translate(930,82)">
+    <rect x="0" y="0" width="580" height="356" rx="18" fill="url(#panel)" stroke="#1D242E"/>
+    <rect x="18" y="18" width="544" height="320" rx="16" fill="#070A0E" stroke="#1A212B"/>
+
+    <!-- Orbital-ish nodes (static) -->
+    <g transform="translate(60,54)" opacity="0.95">
+      <circle cx="210" cy="150" r="122" stroke="#2A313B" stroke-width="2" fill="none"/>
+      <circle cx="210" cy="150" r="78" stroke="#1E2530" stroke-width="2" fill="none"/>
+
+      <path d="M95 160 C140 80, 280 80, 325 160" stroke="#1E2530" stroke-width="2" fill="none"/>
+      <path d="M105 110 C170 220, 250 220, 315 110" stroke="#1E2530" stroke-width="2" fill="none"/>
+
+      <!-- nodes -->
+      <circle cx="210" cy="150" r="10" fill="#23F36A" filter="url(#glow)"/>
+      <circle cx="110" cy="160" r="6" fill="#93A0B2"/>
+      <circle cx="310" cy="160" r="6" fill="#93A0B2"/>
+      <circle cx="145" cy="108" r="6" fill="#23F36A" filter="url(#glow)"/>
+      <circle cx="275" cy="108" r="6" fill="#93A0B2"/>
+      <circle cx="160" cy="220" r="6" fill="#93A0B2"/>
+      <circle cx="260" cy="220" r="6" fill="#23F36A" filter="url(#glow)"/>
+
+      <!-- labels as “files” -->
+      <g transform="translate(18,248)">
+        <rect x="0" y="0" rx="10" width="240" height="34" fill="#0D1117" stroke="#1E2530"/>
+        <circle cx="16" cy="17" r="6" fill="#23F36A" filter="url(#glow)"/>
+        <text class="mono small" x="34" y="17" dominant-baseline="middle">llm-quantization</text>
+      </g>
+
+      <g transform="translate(260,30)">
+        <rect x="0" y="0" rx="10" width="260" height="34" fill="#0D1117" stroke="#1E2530"/>
+        <circle cx="16" cy="17" r="6" fill="#23F36A" filter="url(#glow)"/>
+        <text class="mono small" x="34" y="17" dominant-baseline="middle">dlrm-adam-optimizer-support</text>
+      </g>
+
+      <g transform="translate(300,250)">
+        <rect x="0" y="0" rx="10" width="160" height="34" fill="#0D1117" stroke="#1E2530"/>
+        <circle cx="16" cy="17" r="6" fill="#93A0B2"/>
+        <text class="mono small" x="34" y="17" dominant-baseline="middle">dataFlow</text>
+      </g>
+    </g>
+
+    <text class="mono small" x="30" y="330">Pinned work: quantization • DLRM • full-stack ML</text>
+  </g>
+
+  <!-- Footer stats -->
+  <g transform="translate(1080,460)" opacity="0.85">
+    <text class="mono small" x="0" y="0">signals → insight → shipped</text>
+    <rect x="0" y="14" width="420" height="8" rx="4" fill="#0D1117" stroke="#1E2530"/>
+    <rect x="0" y="14" width="280" height="8" rx="4" fill="#23F36A" filter="url(#glow)"/>
+  </g>
+</svg>
