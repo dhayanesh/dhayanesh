@@ -73,16 +73,16 @@
         <text class="mono btnText" x="291" y="23" text-anchor="middle" dominant-baseline="middle" fill="#06220F">EMAIL</text>
       </a>
 
-      <a href="https://github.com/dhayanesh/llm-quantization" target="_blank">
-        <rect x="392" y="0" rx="10" ry="10" width="260" height="46" fill="#0D1117" stroke="#23F36A" stroke-width="1.5"/>
-        <text class="mono btnText" x="522" y="23" text-anchor="middle" dominant-baseline="middle" fill="#E8EEF6">FEATURED: LLM QUANTIZATION</text>
+      <a href="https://github.com/dhayanesh?tab=repositories" target="_blank">
+        <rect x="392" y="0" rx="10" ry="10" width="230" height="46" fill="#0D1117" stroke="#23F36A" stroke-width="1.5"/>
+        <text class="mono btnText" x="507" y="23" text-anchor="middle" dominant-baseline="middle" fill="#E8EEF6">REPOSITORIES</text>
       </a>
     </g>
 
     <!-- Micro-copy -->
     <text class="mono small" x="0" y="302">Focus: reliability, performance, clean interfaces, measurable wins.</text>
 
-    <!-- “Modules” list (RightNowAI-ish) -->
+    <!-- “Modules” list -->
     <g transform="translate(0,344)" opacity="0.9">
       <text class="mono small" x="0" y="0" dominant-baseline="hanging">Realtime raw context</text>
       <text class="mono small" x="250" y="0" dominant-baseline="hanging">→</text>
@@ -114,27 +114,28 @@
       <circle cx="160" cy="220" r="6" fill="#93A0B2"/>
       <circle cx="260" cy="220" r="6" fill="#23F36A" filter="url(#glow)"/>
 
-      <!-- labels as “files” -->
-      <g transform="translate(18,248)">
-        <rect x="0" y="0" rx="10" width="240" height="34" fill="#0D1117" stroke="#1E2530"/>
-        <circle cx="16" cy="17" r="6" fill="#23F36A" filter="url(#glow)"/>
-        <text class="mono small" x="34" y="17" dominant-baseline="middle">llm-quantization</text>
-      </g>
-
+      <!-- “file chips” (repositioned to avoid overlap) -->
       <g transform="translate(260,30)">
         <rect x="0" y="0" rx="10" width="260" height="34" fill="#0D1117" stroke="#1E2530"/>
         <circle cx="16" cy="17" r="6" fill="#23F36A" filter="url(#glow)"/>
         <text class="mono small" x="34" y="17" dominant-baseline="middle">dlrm-adam-optimizer-support</text>
       </g>
 
-      <g transform="translate(300,250)">
+      <g transform="translate(18,232)">
+        <rect x="0" y="0" rx="10" width="240" height="34" fill="#0D1117" stroke="#1E2530"/>
+        <circle cx="16" cy="17" r="6" fill="#23F36A" filter="url(#glow)"/>
+        <text class="mono small" x="34" y="17" dominant-baseline="middle">llm-quantization</text>
+      </g>
+
+      <g transform="translate(330,232)">
         <rect x="0" y="0" rx="10" width="160" height="34" fill="#0D1117" stroke="#1E2530"/>
         <circle cx="16" cy="17" r="6" fill="#93A0B2"/>
         <text class="mono small" x="34" y="17" dominant-baseline="middle">dataFlow</text>
       </g>
     </g>
 
-    <text class="mono small" x="30" y="330">Pinned work: quantization • DLRM • full-stack ML</text>
+    <!-- Caption moved down a bit -->
+    <text class="mono small" x="30" y="346">Pinned work: quantization • DLRM • full-stack ML</text>
   </g>
 
   <!-- Footer stats -->
