@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dhaya Balusamy — GitHub profile hero">
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dhaya Balusamy hero">
   <defs>
     <pattern id="dotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="1.2" fill="#1B1F24"/>
+      <circle cx="1.6" cy="1.6" r="1.15" fill="#1B1F24"/>
     </pattern>
 
-    <radialGradient id="vignette" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 260) rotate(90) scale(320 900)">
+    <radialGradient id="vignette" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(820 250) rotate(90) scale(330 920)">
       <stop offset="0" stop-color="#0B0D10" stop-opacity="0"/>
-      <stop offset="1" stop-color="#000000" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.72"/>
     </radialGradient>
 
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4.2" result="blur"/>
       <feColorMatrix in="blur" type="matrix"
         values="0 0 0 0 0.10
                 0 0 0 0 0.95
@@ -30,10 +30,10 @@
 
     <style><![CDATA[
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
-      .title { font-size: 56px; font-weight: 900; letter-spacing: 0.6px; fill: #F2F5F8; }
+      .title { font-size: 60px; font-weight: 900; letter-spacing: 0.8px; fill: #F2F5F8; }
       .sub { font-size: 20px; fill: #B7C0CC; }
       .small { font-size: 14px; fill: #93A0B2; }
-      .btnText { font-size: 16px; font-weight: 800; }
+      .label { font-size: 13px; fill: #93A0B2; letter-spacing: 0.2px; }
     ]]></style>
   </defs>
 
@@ -42,91 +42,81 @@
   <rect width="1600" height="520" fill="url(#dotGrid)" opacity="0.95"/>
   <rect width="1600" height="520" fill="url(#vignette)"/>
 
-  <!-- Left block -->
-  <g transform="translate(90,88)">
+  <!-- Column labels -->
+  <text class="mono label" x="90" y="56">REALTIME RAW CONTEXT</text>
+  <text class="mono label" x="705" y="56">SEMANTIC UNDERSTANDING</text>
+  <text class="mono label" x="1320" y="56">CURATED OUTPUT</text>
+
+  <!-- Left content -->
+  <g transform="translate(90,120)">
     <text class="mono title" x="0" y="0" dominant-baseline="hanging">DHAYA BALUSAMY</text>
 
-    <text class="mono sub" x="0" y="92">AI/ML engineer building recommender systems, LLM tooling,</text>
-    <text class="mono sub" x="0" y="122">scalable inference, and GPU-accelerated training.</text>
+    <text class="mono sub" x="0" y="108">AI/ML engineer building recommender systems, LLM tooling,</text>
+    <text class="mono sub" x="0" y="140">scalable inference, and GPU-accelerated training.</text>
 
-    <!-- Pills -->
-    <g transform="translate(0,162)" opacity="0.95">
-      <rect x="0" y="0" rx="12" width="170" height="34" fill="#0D1117" stroke="#1E2530"/>
-      <text class="mono small" x="85" y="17" text-anchor="middle" dominant-baseline="middle">Recommenders</text>
+    <!-- Minimal "inputs" list -->
+    <g transform="translate(0,196)" opacity="0.9">
+      <text class="mono small" x="0" y="0" dominant-baseline="hanging">Code</text>
+      <text class="mono small" x="0" y="34" dominant-baseline="hanging">Dependencies</text>
+      <text class="mono small" x="0" y="68" dominant-baseline="hanging">Documentation</text>
+      <text class="mono small" x="0" y="102" dominant-baseline="hanging">Style</text>
+      <text class="mono small" x="0" y="136" dominant-baseline="hanging">Recent changes</text>
 
-      <rect x="184" y="0" rx="12" width="170" height="34" fill="#0D1117" stroke="#1E2530"/>
-      <text class="mono small" x="269" y="17" text-anchor="middle" dominant-baseline="middle">LLM Systems</text>
-
-      <rect x="368" y="0" rx="12" width="170" height="34" fill="#0D1117" stroke="#1E2530"/>
-      <text class="mono small" x="453" y="17" text-anchor="middle" dominant-baseline="middle">CUDA / GPUs</text>
-    </g>
-
-    <!-- Buttons -->
-    <g transform="translate(0,220)">
-      <a href="https://www.linkedin.com/in/dhayaneshwar" target="_blank">
-        <rect x="0" y="0" rx="10" ry="10" width="190" height="46" fill="#0D1117" stroke="#2A313B"/>
-        <text class="mono btnText" x="95" y="23" text-anchor="middle" dominant-baseline="middle" fill="#E8EEF6">LINKEDIN</text>
-      </a>
-
-      <a href="mailto:dhaya2698@gmail.com" target="_blank">
-        <rect x="206" y="0" rx="10" ry="10" width="170" height="46" fill="#23F36A" filter="url(#glow)"/>
-        <text class="mono btnText" x="291" y="23" text-anchor="middle" dominant-baseline="middle" fill="#06220F">EMAIL</text>
-      </a>
-
-      <a href="https://github.com/dhayanesh?tab=repositories" target="_blank">
-        <rect x="392" y="0" rx="10" ry="10" width="230" height="46" fill="#0D1117" stroke="#23F36A" stroke-width="1.5"/>
-        <text class="mono btnText" x="507" y="23" text-anchor="middle" dominant-baseline="middle" fill="#E8EEF6">REPOSITORIES</text>
-      </a>
-    </g>
-
-    <!-- Micro-copy -->
-    <text class="mono small" x="0" y="302">Focus: reliability, performance, clean interfaces, measurable wins.</text>
-
-    <!-- “Modules” list -->
-    <g transform="translate(0,344)" opacity="0.9">
-      <text class="mono small" x="0" y="0" dominant-baseline="hanging">Realtime raw context</text>
-      <text class="mono small" x="250" y="0" dominant-baseline="hanging">→</text>
-      <text class="mono small" x="285" y="0" dominant-baseline="hanging">Semantic understanding</text>
-      <text class="mono small" x="560" y="0" dominant-baseline="hanging">→</text>
-      <text class="mono small" x="595" y="0" dominant-baseline="hanging">Curated output</text>
+      <!-- indicator dots -->
+      <g transform="translate(185,10)" fill="#2A313B">
+        <circle cx="0" cy="0" r="4"/><circle cx="20" cy="0" r="4"/><circle cx="40" cy="0" r="4"/><circle cx="60" cy="0" r="4"/><circle cx="80" cy="0" r="4"/>
+      </g>
+      <g transform="translate(185,44)" fill="#2A313B">
+        <circle cx="0" cy="0" r="4"/><circle cx="20" cy="0" r="4"/><circle cx="40" cy="0" r="4"/><circle cx="60" cy="0" r="4"/>
+      </g>
+      <g transform="translate(185,78)" fill="#2A313B">
+        <circle cx="0" cy="0" r="4"/><circle cx="20" cy="0" r="4"/><circle cx="40" cy="0" r="4"/><circle cx="60" cy="0" r="4"/><circle cx="80" cy="0" r="4"/>
+      </g>
+      <g transform="translate(185,112)" fill="#2A313B">
+        <circle cx="0" cy="0" r="4"/><circle cx="20" cy="0" r="4"/><circle cx="40" cy="0" r="4"/>
+      </g>
+      <g transform="translate(185,146)" fill="#2A313B">
+        <circle cx="0" cy="0" r="4"/><circle cx="20" cy="0" r="4"/><circle cx="40" cy="0" r="4"/><circle cx="60" cy="0" r="4"/><circle cx="80" cy="0" r="4"/>
+      </g>
     </g>
   </g>
 
-  <!-- Right illustration panel -->
-  <g transform="translate(930,82)">
-    <rect x="0" y="0" width="580" height="356" rx="18" fill="url(#panel)" stroke="#1D242E"/>
-    <rect x="18" y="18" width="544" height="320" rx="16" fill="#070A0E" stroke="#1A212B"/>
+  <!-- Right visualization panel -->
+  <g transform="translate(930,92)">
+    <rect x="0" y="0" width="580" height="336" rx="18" fill="url(#panel)" stroke="#1D242E"/>
+    <rect x="18" y="18" width="544" height="300" rx="16" fill="#070A0E" stroke="#1A212B"/>
 
-    <g transform="translate(60,54)" opacity="0.95">
-      <circle cx="210" cy="150" r="122" stroke="#2A313B" stroke-width="2" fill="none"/>
-      <circle cx="210" cy="150" r="78" stroke="#1E2530" stroke-width="2" fill="none"/>
+    <!-- Orbital graph (static) -->
+    <g transform="translate(62,52)" opacity="0.95">
+      <circle cx="210" cy="130" r="118" stroke="#2A313B" stroke-width="2" fill="none"/>
+      <circle cx="210" cy="130" r="74" stroke="#1E2530" stroke-width="2" fill="none"/>
 
-      <path d="M95 160 C140 80, 280 80, 325 160" stroke="#1E2530" stroke-width="2" fill="none"/>
-      <path d="M105 110 C170 220, 250 220, 315 110" stroke="#1E2530" stroke-width="2" fill="none"/>
+      <path d="M92 140 C140 70, 280 70, 328 140" stroke="#1E2530" stroke-width="2" fill="none"/>
+      <path d="M102 95 C170 200, 250 200, 318 95" stroke="#1E2530" stroke-width="2" fill="none"/>
 
       <!-- nodes -->
-      <circle cx="210" cy="150" r="10" fill="#23F36A" filter="url(#glow)"/>
-      <circle cx="110" cy="160" r="6" fill="#93A0B2"/>
-      <circle cx="310" cy="160" r="6" fill="#93A0B2"/>
-      <circle cx="145" cy="108" r="6" fill="#23F36A" filter="url(#glow)"/>
-      <circle cx="275" cy="108" r="6" fill="#93A0B2"/>
-      <circle cx="160" cy="220" r="6" fill="#93A0B2"/>
-      <circle cx="260" cy="220" r="6" fill="#23F36A" filter="url(#glow)"/>
+      <circle cx="210" cy="130" r="10" fill="#23F36A" filter="url(#glow)"/>
+      <circle cx="116" cy="140" r="6" fill="#93A0B2"/>
+      <circle cx="304" cy="140" r="6" fill="#93A0B2"/>
+      <circle cx="148" cy="96" r="6" fill="#23F36A" filter="url(#glow)"/>
+      <circle cx="278" cy="96" r="6" fill="#93A0B2"/>
+      <circle cx="162" cy="200" r="6" fill="#93A0B2"/>
+      <circle cx="258" cy="200" r="6" fill="#23F36A" filter="url(#glow)"/>
 
-      <!-- chips -->
-      <g transform="translate(260,30)">
+      <!-- minimal chips -->
+      <g transform="translate(260,18)">
         <rect x="0" y="0" rx="10" width="260" height="34" fill="#0D1117" stroke="#1E2530"/>
         <circle cx="16" cy="17" r="6" fill="#23F36A" filter="url(#glow)"/>
         <text class="mono small" x="34" y="17" dominant-baseline="middle">dlrm-adam-optimizer-support</text>
       </g>
 
-      <g transform="translate(18,232)">
+      <g transform="translate(18,206)">
         <rect x="0" y="0" rx="10" width="240" height="34" fill="#0D1117" stroke="#1E2530"/>
         <circle cx="16" cy="17" r="6" fill="#23F36A" filter="url(#glow)"/>
         <text class="mono small" x="34" y="17" dominant-baseline="middle">llm-quantization</text>
       </g>
 
-      <g transform="translate(330,232)">
+      <g transform="translate(332,206)">
         <rect x="0" y="0" rx="10" width="160" height="34" fill="#0D1117" stroke="#1E2530"/>
         <circle cx="16" cy="17" r="6" fill="#93A0B2"/>
         <text class="mono small" x="34" y="17" dominant-baseline="middle">dataFlow</text>
@@ -134,10 +124,10 @@
     </g>
   </g>
 
-  <!-- Footer stats -->
-  <g transform="translate(1080,460)" opacity="0.85">
+  <!-- Bottom “signals” line -->
+  <g transform="translate(980,448)" opacity="0.92">
     <text class="mono small" x="0" y="0">signals → insight → shipped</text>
-    <rect x="0" y="14" width="420" height="8" rx="4" fill="#0D1117" stroke="#1E2530"/>
-    <rect x="0" y="14" width="280" height="8" rx="4" fill="#23F36A" filter="url(#glow)"/>
+    <rect x="0" y="14" width="520" height="8" rx="4" fill="#0D1117" stroke="#1E2530"/>
+    <rect x="0" y="14" width="330" height="8" rx="4" fill="#23F36A" filter="url(#glow)"/>
   </g>
 </svg>
