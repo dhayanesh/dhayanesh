@@ -97,7 +97,6 @@
     <rect x="0" y="0" width="580" height="356" rx="18" fill="url(#panel)" stroke="#1D242E"/>
     <rect x="18" y="18" width="544" height="320" rx="16" fill="#070A0E" stroke="#1A212B"/>
 
-    <!-- Orbital-ish nodes (static) -->
     <g transform="translate(60,54)" opacity="0.95">
       <circle cx="210" cy="150" r="122" stroke="#2A313B" stroke-width="2" fill="none"/>
       <circle cx="210" cy="150" r="78" stroke="#1E2530" stroke-width="2" fill="none"/>
@@ -114,7 +113,7 @@
       <circle cx="160" cy="220" r="6" fill="#93A0B2"/>
       <circle cx="260" cy="220" r="6" fill="#23F36A" filter="url(#glow)"/>
 
-      <!-- “file chips” (repositioned to avoid overlap) -->
+      <!-- chips -->
       <g transform="translate(260,30)">
         <rect x="0" y="0" rx="10" width="260" height="34" fill="#0D1117" stroke="#1E2530"/>
         <circle cx="16" cy="17" r="6" fill="#23F36A" filter="url(#glow)"/>
@@ -133,9 +132,6 @@
         <text class="mono small" x="34" y="17" dominant-baseline="middle">dataFlow</text>
       </g>
     </g>
-
-    <!-- Caption moved down a bit -->
-    <text class="mono small" x="30" y="346">Pinned work: quantization • DLRM • full-stack ML</text>
   </g>
 
   <!-- Footer stats -->
