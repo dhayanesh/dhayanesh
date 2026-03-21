@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 
 ### Let's connect 📫
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhayaneshwar)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:dhaya2698@gmail.com)
