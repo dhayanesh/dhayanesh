@@ -1,6 +1,5 @@
 ### Hey there, I'm Dhaya 👋 
-About me: ML Engineer and Researcher with nearly five years of experience building and optimizing large-scale AI/ML systems. Currently at JPMorgan Chase, working on recommendation systems, scalable batch and real-time inference, ML platforms, and agentic AI. Previously collaborated with Meta on distributed training, fault-tolerant systems, and CUDA/GPU optimizations. M.S. in Computer Science (AI) from the University at Buffalo (SUNY).
-
+I'm a Machine learning engineer and researcher with six years of experience building production AI systems. Currently at a fintech, I work on large-scale ml systems spanning LLMs, reinforcement learning, distributed training, fine-tuning, inference optimizations, and agentic applications, with focus on performance, reliability, and efficiency. Previously, I worked with Meta Inc., on fault-tolerant distributed training and GPU/CUDA optimization for recommendation systems.
 
 <!--
 **dhayanesh/dhayanesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
